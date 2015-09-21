@@ -1,0 +1,12 @@
+
+Rest service
+-------
+
+Hantera users
+
+- get all users
+- get a specific user
+
+
+GET /users
+GET /users/{userId}
