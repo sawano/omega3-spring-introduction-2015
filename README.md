@@ -13,11 +13,11 @@ This project contains example code from live coding sessions held during educati
 
 ###Run all tests and package with:
 
-    mvn clean verify
+    ./mvnw clean verify
 
 ###To run the server:
 
-    java -jar target/spring-introduction-0.0.1-SNAPSHOT.jar
+    ./mvnw spring-boot:run
 
 ###To discover the API:
 
