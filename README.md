@@ -9,7 +9,7 @@
 * and more...
 
 
-This project contains example code from a live coding session held at 21 Sept 2015 as part of the 'Omega-3' trainee program.
+This project contains example code from live coding sessions held during educational workshops. 
 
 ###Run all tests and package with:
 
