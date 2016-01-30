@@ -1,6 +1,6 @@
 package se.omegapoint.spring.users;
 
-import static se.sawano.java.commons.lang.Validate.notNull;
+import static se.sawano.java.commons.lang.validate.Validate.notNull;
 
 public class User {
 

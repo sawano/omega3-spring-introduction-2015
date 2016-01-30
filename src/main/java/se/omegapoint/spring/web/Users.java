@@ -6,7 +6,7 @@ import se.omegapoint.spring.users.User;
 
 import java.util.List;
 
-import static se.sawano.java.commons.lang.Validate.noNullElements;
+import static se.sawano.java.commons.lang.validate.Validate.noNullElements;
 
 public class Users extends ResourceSupport {
 

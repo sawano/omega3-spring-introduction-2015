@@ -19,7 +19,7 @@ import static org.springframework.http.HttpStatus.NOT_FOUND;
 import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 import static org.springframework.http.ResponseEntity.status;
 import static org.springframework.web.bind.annotation.RequestMethod.GET;
-import static se.sawano.java.commons.lang.Validate.notNull;
+import static se.sawano.java.commons.lang.validate.Validate.notNull;
 
 @RestController
 @RequestMapping("/users")

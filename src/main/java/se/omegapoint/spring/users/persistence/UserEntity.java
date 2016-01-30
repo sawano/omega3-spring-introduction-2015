@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
-import static se.sawano.java.commons.lang.Validate.notNull;
+import static se.sawano.java.commons.lang.validate.Validate.notNull;
 
 @Entity
 public class UserEntity {

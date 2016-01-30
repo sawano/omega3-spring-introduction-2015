@@ -10,7 +10,7 @@ import java.util.Optional;
 import static java.util.Optional.ofNullable;
 import static java.util.stream.Collectors.collectingAndThen;
 import static java.util.stream.Collectors.toList;
-import static se.sawano.java.commons.lang.Validate.notNull;
+import static se.sawano.java.commons.lang.validate.Validate.notNull;
 
 public class UserService {
 
